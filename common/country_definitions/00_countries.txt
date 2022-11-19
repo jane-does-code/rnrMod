@@ -3801,3 +3801,15 @@ SOM = {
 	cultures = { somali }
 	capital = STATE_SOMALILAND
 }
+
+#Uzbekistan
+UZK = {
+	color = { 0  60  71 }
+
+	country_type = unrecognized
+
+	tier = kingdom
+	
+	cultures = { uzbek }
+	capital = STATE_UZBEKIA
+}
