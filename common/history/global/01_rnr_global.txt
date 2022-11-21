@@ -1,0 +1,21 @@
+﻿GLOBAL = {
+    every_country = { #Khiva
+        limit = {
+            exists = c:KHI
+            this = c:KHI
+        }
+		set_variable = started_as_KHI
+    }
+	
+	#c:KHI = {
+	#	set_variable = started_as_KHI
+	#}
+	
+	every_country = { #Bukhara
+        limit = {
+            exists = c:BUK
+            this = c:BUK
+        }
+        set_variable = started_as_BUK
+    }
+}
