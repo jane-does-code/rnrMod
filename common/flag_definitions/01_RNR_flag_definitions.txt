@@ -74,36 +74,36 @@ UZK = { # Uzbekistan
 		subject_canton = UZK_khanate		
 		priority = 20
 		trigger = { 
-			coa_def_monarchy_flag_trigger = yes
 			coa_def_started_as_KHI_trigger = yes
+			coa_def_monarchy_flag_trigger = yes
 		}
 	}
 	
-#	flag_definition = {
-#		coa = UZK_emirate
-#		subject_canton = UZK_emirate		
-#		priority = 20
-#		trigger = { 
-#			coa_def_monarchy_flag_trigger = yes
-#			coa_def_started_as_BUK_trigger = yes
-#		}
-#	}
-#	
-#	flag_definition = {
-#		coa = UZK_communist
-#		subject_canton = UZK_communist		
-#		priority = 20
-#		trigger = { 
-#			coa_def_communist_flag_trigger = yes
-#		}
-#	}
-#	
-#	flag_definition = {
-#		coa = UZK_anarchist
-#		subject_canton = UZK_anarchist		
-#		priority = 20
-#		trigger = { 
-#			coa_def_anarchy_flag_trigger = yes
-#		}
-#	}
+	flag_definition = {
+		coa = UZK_emirate
+		subject_canton = UZK_emirate		
+		priority = 20
+		trigger = { 
+			coa_def_started_as_BUK_trigger = yes
+			coa_def_monarchy_flag_trigger = yes
+		}
+	}
+	
+	flag_definition = {
+		coa = UZK_communist
+		subject_canton = UZK_communist		
+		priority = 25
+		trigger = { 
+			coa_def_communist_flag_trigger = yes
+		}
+	}
+	
+	flag_definition = {
+		coa = UZK_anarchist
+		subject_canton = UZK_anarchist		
+		priority = 25
+		trigger = { 
+			coa_def_anarchy_flag_trigger = yes
+		}
+	}
 }

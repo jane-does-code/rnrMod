@@ -1,0 +1,54 @@
+﻿je_malagasy_isolation_main = {
+	icon = "gfx/interface/icons/event_icons/event_portrait.dds"
+
+	complete = {
+		
+		is_subject = no
+		
+		OR = {
+			has_law = law_type:law_professional_army
+			has_law = law_type:law_national_militia
+		}
+
+		has_law = law_type:law_religious_schools
+		has_law = law_type:law_closed_borders
+		has_law = law_type:law_isolationism
+		
+		government_legitimacy >= 50
+		
+		any_interest_group = {
+			is_in_government = yes
+			OR = {
+				has_ideology = ideology_paternalistic
+			}
+		}
+		
+		is_at_war = no
+		
+		NOT = {
+			any_interest_group = {
+				is_insurrectionary = yes
+			}
+		}
+	}
+
+	on_complete = {
+		add_modifier = malagasy_alone
+		trigger_event = {
+			id = malagasy_modernization.2
+		}
+	}
+
+	timeout = 7300
+
+	on_timeout = {
+		remove_modifier = sick_man_of_europe
+		trigger_event = {
+			id = sick_man.3
+		}
+	}
+
+	weight = 10000
+	should_be_pinned_by_default = yes
+}
+

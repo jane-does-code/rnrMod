@@ -1,0 +1,156 @@
+﻿namespace = malagasy_modernization
+
+# start event
+malagasy_modernization.1 = {
+	type = country_event
+	placement = root
+	title = malagasy_modernization.1.t
+	desc = malagasy_modernization.1.d
+	flavor = malagasy_modernization.1.f
+
+	duration = 3
+
+	event_image = {
+		video = "gfx/event_pictures/africa_diplomats_negotiating.bk2"
+	}
+
+	on_created_soundeffect = "event:/SFX/UI/Alerts/event_appear"
+	on_opened_soundeffect = "event:/SFX/Events/unspecific/factory_closed"
+
+	icon = "gfx/interface/icons/event_icons/event_portrait.dds"
+
+	trigger = {
+	}
+
+	immediate = {
+		#set_variable = {
+		#	name = sick_man_separatist_var
+		#	value = 0
+		#}
+		
+		add_journal_entry = {
+			type = je_malagasy_isolation_main
+		}
+	}
+
+	option = {
+		name = malagasy_modernization.1.a
+		add_journal_entry = {
+			type = je_malagasy_isolation_main
+		}
+		
+		#show_as_tooltip = {
+		#	add_modifier = {
+		#		name = sick_man_of_europe
+		#		months = -1
+		#	}
+		#}
+	}
+	
+	option = {
+		name = malagasy_modernization.1.b
+		add_journal_entry = {
+			type = je_modernity_by_malagasy_methods_main
+		}
+	}
+	
+	option = {
+		name = malagasy_modernization.1.c
+		add_journal_entry = {
+			type = je_new_face_of_the_malagasy_main
+		}
+	}
+}
+
+###Malagasy Isolation Victory
+malagasy_modernization.2 = {
+	type = country_event
+	placement = root
+	title = malagasy_modernization.2.t
+	desc = malagasy_modernization.2.d
+	flavor = malagasy_modernization.2.f
+
+	duration = 3
+
+	event_image = {
+		video = "gfx/event_pictures/africa_soldiers_breaking_protest.bk2"
+	}
+
+	on_created_soundeffect = "event:/SFX/UI/Alerts/event_appear"
+	on_opened_soundeffect = "event:/SFX/Events/unspecific/factory_closed"
+
+	icon = "gfx/interface/icons/event_icons/event_portrait.dds"
+
+	trigger = {
+	}
+
+	immediate = {
+		
+	}
+
+	option = {
+		name = malagasy_modernization.2.a
+	}
+}
+
+###Malagasy Modernization Victory
+malagasy_modernization.3 = {
+	type = country_event
+	placement = root
+	title = malagasy_modernization.3.t
+	desc = malagasy_modernization.3.d
+	flavor = malagasy_modernization.3.f
+
+	duration = 3
+
+	event_image = {
+		video = "gfx/event_pictures/africa_city_center.bk2"
+	}
+
+	on_created_soundeffect = "event:/SFX/UI/Alerts/event_appear"
+	on_opened_soundeffect = "event:/SFX/Events/unspecific/factory_closed"
+
+	icon = "gfx/interface/icons/event_icons/event_portrait.dds"
+
+	trigger = {
+	}
+
+	immediate = {
+		
+	}
+
+	option = {
+		name = malagasy_modernization.3.a
+	}
+}
+
+###Open Madagascar Victory
+malagasy_modernization.4 = {
+	type = country_event
+	placement = root
+	title = malagasy_modernization.4.t
+	desc = malagasy_modernization.4.d
+	flavor = malagasy_modernization.4.f
+
+	duration = 3
+
+	event_image = {
+		video = "gfx/event_pictures/africa_prosperous_farm.bk2"
+	}
+
+	on_created_soundeffect = "event:/SFX/UI/Alerts/event_appear"
+	on_opened_soundeffect = "event:/SFX/Events/unspecific/factory_closed"
+
+	icon = "gfx/interface/icons/event_icons/event_portrait.dds"
+
+	trigger = {
+	}
+
+	immediate = {
+		
+	}
+
+	option = {
+		name = malagasy_modernization.4.a
+	}
+}

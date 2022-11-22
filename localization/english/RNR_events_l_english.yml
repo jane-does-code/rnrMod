@@ -1,0 +1,36 @@
+﻿l_english:
+ 
+ ###Mod Content###
+ 
+ #Madagascar Journals#
+ je_malagasy_isolation_main:0 "Malagasy Isolation"
+ je_malagasy_isolation_main_reason:0 "The Europeans come to our door promising peace and properity, but we have seen the blood they have spilled in their pursuit of Empire. To survive, we must resist foreign influence, ensure that we can take care of our own populace without foreign aid, and build a new army capable of defending our homeland."
+ 
+ je_modernity_by_malagasy_methods_main:0 "Modernity by Malagasy Methods"
+ je_modernity_by_malagasy_methods_main_reason:0 "The Europeans come to our door promising peace and properity, but we know that in each promise lays a hidden threat. If we are to survive this new age, we must modernize along European lines, while maintaining our own cultural sovereignity. This process will be difficult, but our nation will be all the stronger for it."
+ 
+ je_new_face_of_the_malagasy_main:0 "New Face of the Malagasy"
+ je_new_face_of_the_malagasy_main_reason:0 "Queen Ranavalona Hova is infamous for her hostility to our potential partners in Europe and her hostility to Christian converts. If we are to open up the Kingdom to the world, we must prepare her heir to take the country in a new direction. "
+ 
+ #Madagascar Events#
+ malagasy_modernization.1.t:0 "Direction of the Merina Kingdom"
+ malagasy_modernization.1.d:0 "Europe knocks on our door, how will we answer?"
+ malagasy_modernization.1.f:0 "As the European powers begin their encroachment into Africa, a debate has been sparked among the aristocratic classes as to what direction the Malagasy people should take. [ROOT.GetCountry.GetRuler.GetPrimaryRoleTitle] [ROOT.GetCountry.GetRuler.GetFullName] has been notorious in [ROOT.GetCountry.GetRuler.GetHerHis] harsh enforcement of strict isolation, but could a different path be better for the Kingdom?"
+ malagasy_modernization.1.a:0 "Maintain our isolation and strength!"
+ malagasy_modernization.1.b:0 "We must modernize, through our own ways!"
+ malagasy_modernization.1.c:0 "We have much to gain from the Europeans!"
+ 
+ malagasy_modernization.2.t:0 "Our Splendid Isolation"
+ malagasy_modernization.2.d:0 "Alone, and guarded from foreigners."
+ malagasy_modernization.2.f:0 "After a great deal of work, we have reinforced our borders and closed ourselves off from the influence of foreign faiths and kings. Life in the Kingdom is stable and prosperious, and our citizenry is free of foreign chains."
+ malagasy_modernization.2.a:0 "The status quo, reinforced."
+ 
+ malagasy_modernization.3.t:0 "The Industrious Malagasy"
+ malagasy_modernization.3.d:0 "Tananarive sings with Malagasy industry!"
+ malagasy_modernization.3.f:0 "After concentrated efforts at reform, we've begun"
+ malagasy_modernization.3.a:0 "A nation reborn and reforged!"
+ 
+ malagasy_modernization.4.t:0 "The Great Tradepost"
+ malagasy_modernization.4.d:0 "The port of Tamatave fills with luxuries."
+ malagasy_modernization.4.f:0 "From Portugal, from France, from Great Britain they all come, traders and merchants looking for a new marketplace for their wares."
+ malagasy_modernization.4.a:0 "The world at our doorstep."
