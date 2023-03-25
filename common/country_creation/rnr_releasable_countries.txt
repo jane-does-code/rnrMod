@@ -185,3 +185,68 @@ ORA = {
 	}
 	ai_will_do = { always = no }
 }
+
+#Namibia
+NMB = {
+	states = {
+		STATE_HEREROLAND
+		STATE_NAMAQUALAND
+	}
+	ai_will_do = { always = no }
+}
+
+#Angola
+ANG = {
+	states = {
+		STATE_NORTH_ANGOLA
+		STATE_SOUTH_ANGOLA
+		STATE_EAST_ANGOLA
+	}
+	ai_will_do = { always = no }
+}
+
+#Botswana
+BOT = {
+	states = {
+		STATE_BOTSWANA
+	}
+	ai_will_do = { always = no }
+}
+
+#Mozambique
+MZM = {
+	states = {
+		STATE_LOURENCO_MARQUES
+		STATE_ZAMBEZIA
+		STATE_MOCAMBIQUE
+	}
+	ai_will_do = { always = no }
+}
+
+#Zambia
+ZMB = {
+	states = {
+		STATE_ZAMBIA
+		STATE_KAZEMBE
+	}
+	ai_will_do = { always = no }
+}
+
+#Tanzania
+TAN= {
+	states = {
+		STATE_ZANZIBAR
+		STATE_LINDI
+		STATE_TANGANYIKA
+	}
+	ai_will_do = { always = no }
+}
+
+#Tanganyika
+TGY = {
+	states = {
+		STATE_LINDI
+		STATE_TANGANYIKA
+	}
+	ai_will_do = { always = no }
+}

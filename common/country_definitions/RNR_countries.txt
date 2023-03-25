@@ -23,3 +23,87 @@ UZK = {
 	cultures = { uzbek }
 	capital = STATE_UZBEKIA
 }
+
+#Namibia
+NMB = {
+	color = { 0  47  108 }
+
+	country_type = recognized
+
+	tier = kingdom
+	
+	cultures = { khoisan herero}
+	capital = STATE_HEREROLAND
+}
+
+#Angola
+ANG = {
+	color = { 204 9 47 }
+
+	country_type = recognized
+
+	tier = kingdom
+	
+	cultures = { kavango_bantu portuguese }
+	capital = STATE_NORTH_ANGOLA
+}
+
+#Botswana
+BOT = {
+	color = { 109 169 210 }
+
+	country_type = recognized
+
+	tier = kingdom
+	
+	cultures = { tswana }
+	capital = STATE_BOTSWANA
+}
+
+#Mozambique
+MZM = {
+	color = { 255 255 102 }
+
+	country_type = recognized
+
+	tier = kingdom
+	
+	cultures = { shona makua portuguese }
+	capital = STATE_LOURENCO_MARQUES
+}
+
+#Zambia
+ZMB = {
+	color = { 239 125 0 }
+
+	country_type = recognized
+
+	tier = kingdom
+	
+	cultures = { lacustrine_bantu lunda }
+	capital = STATE_ZAMBIA
+}
+
+#Tanzania
+TAN = {
+	color = { 50 250 50 }
+
+	country_type = recognized
+
+	tier = kingdom
+	
+	cultures = { lacustrine_bantu }
+	capital = STATE_ZANZIBAR
+}
+
+#Tanganyika
+TGY = {
+	color = { 0 150 0 }
+
+	country_type = recognized
+
+	tier = kingdom
+	
+	cultures = { lacustrine_bantu }
+	capital = STATE_TANGANYIKA
+}
