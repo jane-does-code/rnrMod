@@ -1,0 +1,38 @@
+﻿###MOD CONTENT###
+
+#Somalia
+SOM = {
+	states = {
+		STATE_SOMALILAND
+		STATE_OROMIA
+	}
+
+	required_states_fraction = 0.5
+	
+	ai_will_do = { always = yes }
+	
+	possible = {
+		has_technology_researched = nationalism
+
+	}
+}
+
+#Uzbekistan
+UZK = {
+	states = {
+		STATE_KHIVA
+		STATE_UZBEKIA
+		STATE_TURKMENIA
+		STATE_TAJIKISTAN
+		STATE_KIRGHIZIA
+	}
+
+	required_states_fraction = 0.5
+	
+	ai_will_do = { always = yes }
+	
+	possible = {
+		has_technology_researched = nationalism
+
+	}
+}

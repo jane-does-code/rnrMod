@@ -1,0 +1,187 @@
+﻿###MOD CONTENT###
+
+#Somalia
+SOM = {
+	states = { 
+		STATE_SOMALILAND
+		STATE_OROMIA
+	}
+
+	ai_will_do = { always = no }
+}
+
+#Ethiopia
+ETH = {
+	states = { 
+		STATE_GONDER
+		STATE_AMHARA
+		STATE_ERITREA
+		STATE_OROMIA
+	}
+
+	ai_will_do = { always = no }
+}
+
+#Madagascar
+MAD = {
+	states = { 
+		STATE_NORTH_MADAGASCAR
+		STATE_SOUTH_MADAGASCAR
+	}
+
+	ai_will_do = { always = no }
+}
+
+#Mali
+MAL = {
+	states = { 
+		STATE_WESTERN_MALI
+		STATE_EASTERN_MALI
+		STATE_TIMBUKTU
+	}
+
+	ai_will_do = { always = no }
+}
+
+#Sokoto
+SOK = {
+	states = { 
+		STATE_HAUSALAND
+		STATE_EAST_HAUSALAND
+		STATE_NIGERIA
+		STATE_HAUSALAND
+	}
+
+	ai_will_do = { always = no }
+}
+
+#Zanzibar
+ZAN = {
+	states = { 
+		STATE_ZANZIBAR
+	}
+
+	ai_will_do = { always = no }
+}
+
+#Zulu
+ZUL = {
+	states = { 
+		STATE_ZULULAND
+	}
+
+	ai_will_do = { always = no }
+}
+
+#Sierra Leone
+SIL = {
+	states = { 
+		STATE_SIERRA_LEONE
+	}
+
+	ai_will_do = { always = no }
+}
+
+#Futa Jallon
+FTJ = {
+	states = { 
+		STATE_GUINEA
+	}
+
+	ai_will_do = { always = no }
+}
+
+#Ashanti
+ASH = {
+	states = { 
+		STATE_GHANA
+	}
+
+	ai_will_do = { always = no }
+}
+
+#Kongo
+KON = {
+	states = { 
+		STATE_BAS_CONGO
+	}
+
+	ai_will_do = { always = no }
+}
+
+#Darfur
+DFR = {
+	states = { 
+		STATE_DARFUR
+	}
+
+	ai_will_do = { always = no }
+}
+
+#Sudan
+SUD = {
+	states = {
+		STATE_BLUE_NILE
+		STATE_KORDOFAN
+		STATE_DONGOLA
+		STATE_DARFUR
+	}
+	ai_will_do = { always = no }
+}
+
+#Dahomey
+DAH = {
+	states = {
+		STATE_DAHOMEY
+	}
+	ai_will_do = { always = no }
+}
+
+#Benin
+BEN = {
+	states = {
+		STATE_BENIN
+		STATE_NIGER_DELTA
+	}
+	ai_will_do = { always = no }
+}
+
+#Oyo
+OYO = {
+	states = {
+		STATE_YORUBA_STATES
+	}
+	ai_will_do = { always = no }
+}
+
+#Liberia
+LIB = {
+	states = {
+		STATE_LIBERIA
+	}
+	ai_will_do = { always = no }
+}
+
+#Futa Toro
+FTR = {
+	states = {
+		STATE_SENEGAL
+	}
+	ai_will_do = { always = no }
+}
+
+#Transvaal
+TRN = {
+	states = {
+		STATE_TRANSVAAL
+	}
+	ai_will_do = { always = no }
+}
+
+#Oranje
+ORA = {
+	states = {
+		STATE_VRYSTAAT
+	}
+	ai_will_do = { always = no }
+}
