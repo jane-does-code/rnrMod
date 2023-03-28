@@ -613,3 +613,33 @@ CON = {
 		instance = { scale = { 0.7 0.7 } position = { 0.5 0.5 }  }
 	}
 }
+
+#Mongalla
+MGA = {
+	pattern = "pattern_solid.tga"
+	color1 = "white"
+	color2 = "red"
+	color3 = "green"
+	color4 = "black"
+	color5 = "blue"
+	color6 = "yellow"
+	
+	colored_emblem = {
+		texture = "ce_tricolor_fimbriated_thin.dds"
+		color1 = color4
+		color2 = color2
+		color3 = color3
+	}
+	
+	colored_emblem= {
+		texture = "ce_rhombus.dds"
+		color1 = color5
+		instance = { scale = { 0.9 1.0 } position = { 0.0 0.5 }  }
+	}
+	
+	colored_emblem = {
+		texture = "ce_star_05.dds"
+		color1 = "yellow"
+		instance = { scale = { 0.4 0.4 } position = { 0.15 0.5 }  }
+	}
+}

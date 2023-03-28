@@ -51,6 +51,8 @@
  TOG_ADJ:0 "Togolese"
  IVC:0 "Ivory Coast"
  IVC_ADJ:0 "Ivorian"
+ MGA:0 "Mongalla"
+ MGA_ADJ:0 "Mongollan"
  
  #Dynamic Country Names#
  dyn_c_uzbek_khanate:0 "Uzbek Khanate"

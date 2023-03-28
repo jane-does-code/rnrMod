@@ -287,3 +287,15 @@ IVC = {
 	cultures = { akan }
 	capital = STATE_IVORY_COAST
 }
+
+#Mongalla
+MGA = {
+	color = { 170 116 216 }
+
+	country_type = recognized
+
+	tier = kingdom
+	
+	cultures = { nilotic }
+	capital = STATE_EQUATORIA
+}

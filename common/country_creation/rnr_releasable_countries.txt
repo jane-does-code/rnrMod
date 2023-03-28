@@ -390,3 +390,11 @@ IVC = {
 	}
 	ai_will_do = { always = no }
 }
+
+#Mongalla
+MGA	= {
+	states = {
+		STATE_EQUATORIA
+	}
+	ai_will_do = { always = no }
+}
