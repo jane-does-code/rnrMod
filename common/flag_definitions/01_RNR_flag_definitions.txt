@@ -107,3 +107,11 @@ UZK = { # Uzbekistan
 #		}
 #	}
 }
+
+NRA = {	#Nigeria
+	flag_definition = {
+		coa = NRA
+		subject_canton = NRA		
+		priority = 1
+	}
+}

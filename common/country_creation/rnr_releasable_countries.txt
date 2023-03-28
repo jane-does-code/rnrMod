@@ -250,3 +250,143 @@ TGY = {
 	}
 	ai_will_do = { always = no }
 }
+
+#Kenya
+KYA = {
+	states = {
+		STATE_KENYA
+		STATE_RIFT_VALLEY
+	}
+	ai_will_do = { always = no }
+}
+
+#Central African Republic
+CAR = {
+	states = {
+		STATE_UBANGI_SHARI
+	}
+	ai_will_do = { always = no }
+}
+
+#Gabon
+GAB = {
+	states = {
+		STATE_GABON
+	}
+	ai_will_do = { always = no }
+}
+
+#Cameroon
+CMR = {
+	states = {
+		STATE_SOUTH_CAMEROON
+		STATE_NORTH_CAMEROON
+	}
+	ai_will_do = { always = no }
+}
+
+#Uganda
+UGD = {
+	states = {
+		STATE_UGANDA
+	}
+	ai_will_do = { always = no }
+}
+
+#Sahrawi
+SHR = {
+	states = {
+		STATE_WEST_SAHARA
+	}
+	ai_will_do = { always = no }
+}
+
+#Mauritania
+MAR = {
+	states = {
+		STATE_MAURITANIA
+		STATE_INNER_MAURITANIA
+	}
+	ai_will_do = { always = no }
+}
+
+#Burkina Faso
+BRF = {
+	states = {
+		STATE_VOLTA
+	}
+	ai_will_do = { always = no }
+}
+
+#Congo-Brazzaville
+CBZ = {
+	states = {
+		STATE_CONGO
+	}
+	ai_will_do = { always = no }
+}
+
+#Congo-Kinshasa
+CKA = {
+	states = {
+		STATE_BAS_CONGO
+		STATE_KASAI
+		STATE_KATANGA
+		STATE_EQUATEUR
+		STATE_CONGO_ORIENTALE
+	}
+	ai_will_do = { always = no }
+}
+
+#Congo
+CON = {
+	states = {
+		STATE_BAS_CONGO
+		STATE_KASAI
+		STATE_KATANGA
+		STATE_EQUATEUR
+		STATE_CONGO_ORIENTALE
+		STATE_CONGO
+	}
+	ai_will_do = { always = no }
+}
+
+#Niger
+NER = {
+	states = {
+		STATE_OUTER_HAUSALAND
+		STATE_NIGER
+	}
+	ai_will_do = { always = no }
+}
+
+#Nigeria
+NRA = {
+	states = {
+		STATE_EAST_HAUSALAND
+		STATE_NIGERIA
+		STATE_BORNU
+		STATE_HAUSALAND
+		STATE_NIGER_DELTA
+		STATE_BENIN
+		STATE_YORUBA_STATES
+	}
+	ai_will_do = { always = no }
+}
+
+#Togo
+TOG = {
+	states = {
+		STATE_TOGO
+	}
+	ai_will_do = { always = no }
+}
+
+#Ivory Coast
+IVC = {
+	states = {
+		STATE_IVORY_COAST
+		STATE_WINDWARD_COAST
+	}
+	ai_will_do = { always = no }
+}
